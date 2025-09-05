@@ -4,6 +4,7 @@ Olen 22-vuotias sähköalan perustutkinnon suorittanut ja myöhemmin IT-alan kou
 
 Olen yhteistyökykyinen, huumorintajuinen ja määrätietoinen. Pyrin viemään työni huolellisesti loppuun ja etsin tehokkaita, käytännöllisiä ratkaisuja ongelmatilanteisiin.
 
+Harrastan seinäkiipeilyä, elektroniikan korjaamista ja juottamista sekä pelaamista. Olen myös kokeillut peliohjelmointia C#-kielellä Unity-pelimoottorilla, jossa aloitin Terraria-tyylisen peliprojektin.
 <!--
 **TeemuDrag/TeemuDrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
