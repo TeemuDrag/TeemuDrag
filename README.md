@@ -1,4 +1,5 @@
 ## Hi there 👋
+Olen 22-vuotias ja olen suorittanut sähköalan tutkinnon, jonka jälkeen työskentelin alalla. Varusmiespalveluksen suoritin kuljettajana. Tänä vuonna olen valmistunut IT-alan koulutuksesta ja hakenut jatko-opintoihin ammattikorkeakouluun. Olen yhteistyökykyinen, huumorintajuinen ja määrätietoinen. Pyrin aina viemään työni huolellisesti loppuun ja etsin tehokkaita sekä käytännöllisiä ratkaisuja ongelmatilanteisiin.
 
 <!--
 **TeemuDrag/TeemuDrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
